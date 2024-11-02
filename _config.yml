@@ -12,7 +12,6 @@ linkedin_username: CoryBretsch
 github_username: CoryBretsch
 
 theme: jekyll-professional-resume
-baseurl: portfolio/
 
 exclude:
   - _posts/
