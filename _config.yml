@@ -12,6 +12,8 @@ linkedin_username: CoryBretsch
 github_username: CoryBretsch
 
 theme: jekyll-professional-resume
+plugins:
+  - jekyll-feed
 
 exclude:
   - _posts/
