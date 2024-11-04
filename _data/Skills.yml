@@ -4,7 +4,7 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description:
-    - Ruby
+    - Ruby, Active Record, SQL
 
   - title: Frameworks
     description:
