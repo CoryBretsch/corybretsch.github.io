@@ -51,7 +51,7 @@ Before you begin, ensure you have the following:
 3. **Run the Site Locally**
    - Use the following command to serve your site locally and see the changes:
      ```bash
-     jekyll serve
+     bundle exec jekyll serve
      ```
 
 ## Deploying Your Site

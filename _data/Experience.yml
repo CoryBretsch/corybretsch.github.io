@@ -1,22 +1,43 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Northwestern Mutual
+    role: Senior Product Manager, Leads Generation Platform
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Owned product vision for Leads Generation Data Platform, managing SCRUM ceremonies for team of 8 Java and DevOps engineers
+      - Managed daily operations for engineering team, benchmarking sprint velocity and improving sprint health metrics by 80%
+      - Collaborated on designing an identity resolution solution enabling personalized marketing capabilities to 100% of identified prospects, suspects, pre-leads, leads, cross-sell leads
+      - Initiated and collaborated on designing the process of migrating 50 million records into a re-structured on-prem data warehouse
+    date: Jun. 2022 - Jun. 2023
+  - title: Northwestern Mutual
+    role: Senior Program Manager, Data Science & Analytics 
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
+      - Peer-led 2 teams of data scientists and data engineers with a focus on innovating and streamlining core business logic
+      - Structured over 3 million paper records via OCR to serve as training data for a CPH model for an automated underwriting process
+      - Initiated and managed 2-week POC with AWS Textract consultants saving over $300k in consultant implementation fees
     date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+  - title: Northwestern Mutual
+    role: Technical Program Manager, Field Application Platform
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
+      - Peer-led 9 cross-functional product, design and engineering teams, responsible for establishing and leading operational norms
+      - Championed platform wide epics and features, forecasting enterprise technical mandate deliverables, running quarterly planning across engineering, product, and design
+      - Implemented SAFe framework via JiraAlign enabling visibility into planned quarterly feature delivery with team, program, and platform velocities
+      - Partnered with a design system engineering team driving a full adoption, deprecating an AWS resource saving $15k per month
     date: Jul. 2013 - Sep. 2013
+  - title: United States Coast Guard
+    role: Information Systems Technician
+    description: 
+      - Assisted in maintaining all hardware and software on western cost of Lake Michigan, ensuring 0% downtime of all IT services
+      - Designed and implemented disaster recovery plan for Sector Lake Michigan
+    date: Mar. 2017 - Jan. 2019
+  - title: United States Coast Guard
+    role: Boat Crew Member, Small Boat Station
+    description: 
+      - Part of a 20-person crew, responsible for boating safety awareness, water search and rescue, and ice rescue operations
+    date: Aug. 2015 - Mar. 2017
+  - title: Kazarian, Spencer, Ruskin & Associates
+    role: Actor and Musician, Voice
+    description: 
+      - Performed in Broadway tours, Off-Broadway productions, Tokyo Disney, and regional musical theater productions
+    date: Jun. 2008 - Aug. 2015
